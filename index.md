@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+theme: jekyll-theme-cayman
+title: Welcome to my Test Page
+description: I am trying to learn GitHub
 
 You can use the [editor on GitHub](https://github.com/ntouman/Test/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
